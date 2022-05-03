@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav {
+    background-color: aqua;
+    height: 100px;
+    padding-top: 4px;
+}
+
+ul li {
+    list-style: none;
+    float: left;
+    padding-left: 60px;
+    margin-left: 80px;
+}

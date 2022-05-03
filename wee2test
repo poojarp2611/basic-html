@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title> week2</title>
+    <style>
+        #pr {
+            background-color: red;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="pr">
+        <div>
+            <h6>child1</h6>
+
+        </div>
+        <div>
+            <h6>child1</h6>
+
+        </div>
+        <div>
+            <h6>child1</h6>
+
+        </div>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+#geek {
+    text-align: center;
+    background-color: rosybrown;
+    height: 230px;
+    width: 550px;
+    margin-left: 30%;
+}
+
+h1 {
+    color: green;
+}
+
+h3 {
+    font-family: rgb(128, 115, 212);
+}
+
+#table {
+    background-color: white;
+    text-align: center;
+    height: 230px;
+    width: 550px;
+    margin-left: 30%;
+    margin-top: 80px;
+}
+
+table td {
+    text-align: center;
+}
+
+table td p {
+    float: right;
+    margin: 0px;
+}
+
+table th {
+    background-color: rgba(151, 141, 206, 0.803);
+    height: 50px;
+    width: 1900px;
+}
